@@ -28,7 +28,7 @@ import SouthPage from "views/examples/SouthPage.js";
 import JavascriptPage from "views/examples/JavascriptPage.js";
 
 ReactDOM.render(
-  <HashRouter basename={process.env.PUBLIC_URL}>
+  <HashRouter>
     <Switch>
       <Switch>
         <Route path="/index" render={(props) => <Index {...props} />} />
