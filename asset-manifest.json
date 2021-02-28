@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/thaiculture/static/css/main.02dab9dc.chunk.css",
-    "main.js": "/thaiculture/static/js/main.ad71f216.chunk.js",
-    "main.js.map": "/thaiculture/static/js/main.ad71f216.chunk.js.map",
+    "main.js": "/thaiculture/static/js/main.002f3398.chunk.js",
+    "main.js.map": "/thaiculture/static/js/main.002f3398.chunk.js.map",
     "runtime-main.js": "/thaiculture/static/js/runtime-main.941229d0.js",
     "runtime-main.js.map": "/thaiculture/static/js/runtime-main.941229d0.js.map",
     "static/css/2.4707e12a.chunk.css": "/thaiculture/static/css/2.4707e12a.chunk.css",
     "static/js/2.821900d5.chunk.js": "/thaiculture/static/js/2.821900d5.chunk.js",
     "static/js/2.821900d5.chunk.js.map": "/thaiculture/static/js/2.821900d5.chunk.js.map",
     "index.html": "/thaiculture/index.html",
-    "precache-manifest.f5f0739d6798a55a0c39258f26134a8f.js": "/thaiculture/precache-manifest.f5f0739d6798a55a0c39258f26134a8f.js",
+    "precache-manifest.f812df81cd3ff8712a4113712ce498ed.js": "/thaiculture/precache-manifest.f812df81cd3ff8712a4113712ce498ed.js",
     "service-worker.js": "/thaiculture/service-worker.js",
     "static/css/2.4707e12a.chunk.css.map": "/thaiculture/static/css/2.4707e12a.chunk.css.map",
     "static/css/main.02dab9dc.chunk.css.map": "/thaiculture/static/css/main.02dab9dc.chunk.css.map",
@@ -83,6 +83,6 @@
     "static/css/2.4707e12a.chunk.css",
     "static/js/2.821900d5.chunk.js",
     "static/css/main.02dab9dc.chunk.css",
-    "static/js/main.ad71f216.chunk.js"
+    "static/js/main.002f3398.chunk.js"
   ]
 }
