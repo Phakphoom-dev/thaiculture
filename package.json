@@ -1,5 +1,6 @@
 {
   "name": "now-ui-kit-react",
+  "homepage" : "http://Phakphoom-dev.github.io/thaiculture.git",
   "version": "1.4.0",
   "private": true,
   "dependencies": {
@@ -35,6 +36,7 @@
     "build": "react-scripts build && gulp licenses",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
+    "deploy": "gh-pages -d build",
     "install:clean": "rm -rf node_modules/ && rm -rf package-lock.json && npm install && npm start",
     "compile-sass": "node-sass src/assets/scss/now-ui-kit.scss src/assets/css/now-ui-kit.css",
     "minify-sass": "node-sass src/assets/scss/now-ui-kit.scss src/assets/css/now-ui-kit.min.css --output-style compressed",
