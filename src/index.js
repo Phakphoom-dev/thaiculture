@@ -30,49 +30,35 @@ import JavascriptPage from "views/examples/JavascriptPage.js";
 ReactDOM.render(
   <HashRouter>
     <Switch>
-      <Switch>
-        <Route path="/index" render={(props) => <Index {...props} />} />
-        <Route
-          path="/nucleo-icons"
-          render={(props) => <NucleoIcons {...props} />}
-        />
-        <Route
-          path="/landing-page"
-          render={(props) => <LandingPage {...props} />}
-        />
-        <Route
-          path="/index-copy"
-          render={(props) => <IndexCopy {...props} />}
-        />
-        <Route
-          path="/profile-page"
-          render={(props) => <ProfilePage {...props} />}
-        />
-        <Route
-          path="/north-page"
-          render={(props) => <NorthPage {...props} />}
-        />
-        <Route path="/east-page" render={(props) => <EastPage {...props} />} />
-        <Route
-          path="/central-page"
-          render={(props) => <CentralPage {...props} />}
-        />
-        <Route
-          path="/south-page"
-          render={(props) => <SouthPage {...props} />}
-        />
-        <Route
-          path="/javascript-page"
-          render={(props) => <JavascriptPage {...props} />}
-        />
-        <Route
-          path="/login-page"
-          render={(props) => <LoginPage {...props} />}
-        />
-        <Route path="/test" render={(props) => <TestPage {...props} />} />
-        <Redirect to="/index" />
-        <Redirect from="/" to="/index" />
-      </Switch>
+      <Route path="/index" render={(props) => <Index {...props} />} />
+      <Route
+        path="/nucleo-icons"
+        render={(props) => <NucleoIcons {...props} />}
+      />
+      <Route
+        path="/landing-page"
+        render={(props) => <LandingPage {...props} />}
+      />
+      <Route path="/index-copy" render={(props) => <IndexCopy {...props} />} />
+      <Route
+        path="/profile-page"
+        render={(props) => <ProfilePage {...props} />}
+      />
+      <Route path="/north-page" render={(props) => <NorthPage {...props} />} />
+      <Route path="/east-page" render={(props) => <EastPage {...props} />} />
+      <Route
+        path="/central-page"
+        render={(props) => <CentralPage {...props} />}
+      />
+      <Route path="/south-page" render={(props) => <SouthPage {...props} />} />
+      <Route
+        path="/javascript-page"
+        render={(props) => <JavascriptPage {...props} />}
+      />
+      <Route path="/login-page" render={(props) => <LoginPage {...props} />} />
+      <Route path="/test" render={(props) => <TestPage {...props} />} />
+      <Redirect to="/index" />
+      <Redirect from="/" to="/index" />
     </Switch>
   </HashRouter>,
   document.getElementById("root")
