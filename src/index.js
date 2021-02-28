@@ -28,7 +28,7 @@ import SouthPage from "views/examples/SouthPage.js";
 import JavascriptPage from "views/examples/JavascriptPage.js";
 
 ReactDOM.render(
-  <BrowserRouter basename={process.env.PUBLIC_URL}>
+  <HashRouter basename={process.env.PUBLIC_URL}>
     <Switch>
       <Switch>
         <Route path="/index" render={(props) => <Index {...props} />} />
@@ -74,6 +74,6 @@ ReactDOM.render(
         <Redirect from="/" to="/index" />
       </Switch>
     </Switch>
-  </BrowserRouter>,
+  </HashRouter>,
   document.getElementById("root")
 );
