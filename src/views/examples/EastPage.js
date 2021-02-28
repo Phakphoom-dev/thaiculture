@@ -131,7 +131,7 @@ function EastPage() {
               </Row>
             </div>
           </Container>
-          <Container>
+          {/* <Container>
             <Row>
               <Col className="ml-auto mr-auto" md="10" xl="6">
                 <p className="category">เทศกาลอื่น ๆ</p>
@@ -217,7 +217,7 @@ function EastPage() {
                 </Card>
               </Col>
             </Row>
-          </Container>
+          </Container> */}
         </div>
         <DefaultFooter />
       </div>
