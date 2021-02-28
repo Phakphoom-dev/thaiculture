@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "76e1eeadc325044268da3287cd8b9655",
+    "revision": "d1f53b3f22aaf2e8027a02c2a01700c4",
     "url": "/thaiculture.git/index.html"
   },
   {
-    "revision": "ca9024dab4e45f36499b",
+    "revision": "f30939af1394e2078429",
     "url": "/thaiculture.git/static/css/2.4707e12a.chunk.css"
   },
   {
-    "revision": "a37cbf9e9d09146cddcf",
+    "revision": "4fbbba7e809476b21325",
     "url": "/thaiculture.git/static/css/main.4369de64.chunk.css"
   },
   {
-    "revision": "ca9024dab4e45f36499b",
-    "url": "/thaiculture.git/static/js/2.fba15e97.chunk.js"
+    "revision": "f30939af1394e2078429",
+    "url": "/thaiculture.git/static/js/2.6991a08b.chunk.js"
   },
   {
     "revision": "ac4a31b929cb9380c4a242904540a469",
-    "url": "/thaiculture.git/static/js/2.fba15e97.chunk.js.LICENSE.txt"
+    "url": "/thaiculture.git/static/js/2.6991a08b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a37cbf9e9d09146cddcf",
-    "url": "/thaiculture.git/static/js/main.65c6f4b3.chunk.js"
+    "revision": "4fbbba7e809476b21325",
+    "url": "/thaiculture.git/static/js/main.ad71f216.chunk.js"
   },
   {
     "revision": "b116631f86b5e2c1dba2",
