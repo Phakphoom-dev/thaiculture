@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/thaiculture.git/static/css/main.4369de64.chunk.css",
-    "main.js": "/thaiculture.git/static/js/main.ad71f216.chunk.js",
-    "main.js.map": "/thaiculture.git/static/js/main.ad71f216.chunk.js.map",
+    "main.js": "/thaiculture.git/static/js/main.bfef8867.chunk.js",
+    "main.js.map": "/thaiculture.git/static/js/main.bfef8867.chunk.js.map",
     "runtime-main.js": "/thaiculture.git/static/js/runtime-main.5a016a2a.js",
     "runtime-main.js.map": "/thaiculture.git/static/js/runtime-main.5a016a2a.js.map",
     "static/css/2.4707e12a.chunk.css": "/thaiculture.git/static/css/2.4707e12a.chunk.css",
-    "static/js/2.6991a08b.chunk.js": "/thaiculture.git/static/js/2.6991a08b.chunk.js",
-    "static/js/2.6991a08b.chunk.js.map": "/thaiculture.git/static/js/2.6991a08b.chunk.js.map",
+    "static/js/2.fba15e97.chunk.js": "/thaiculture.git/static/js/2.fba15e97.chunk.js",
+    "static/js/2.fba15e97.chunk.js.map": "/thaiculture.git/static/js/2.fba15e97.chunk.js.map",
     "index.html": "/thaiculture.git/index.html",
-    "precache-manifest.fe950fe0f111ef9009bbd4dde153610f.js": "/thaiculture.git/precache-manifest.fe950fe0f111ef9009bbd4dde153610f.js",
+    "precache-manifest.b52465dab48308a7ea17bbf0a4d76f5f.js": "/thaiculture.git/precache-manifest.b52465dab48308a7ea17bbf0a4d76f5f.js",
     "service-worker.js": "/thaiculture.git/service-worker.js",
     "static/css/2.4707e12a.chunk.css.map": "/thaiculture.git/static/css/2.4707e12a.chunk.css.map",
     "static/css/main.4369de64.chunk.css.map": "/thaiculture.git/static/css/main.4369de64.chunk.css.map",
-    "static/js/2.6991a08b.chunk.js.LICENSE.txt": "/thaiculture.git/static/js/2.6991a08b.chunk.js.LICENSE.txt",
+    "static/js/2.fba15e97.chunk.js.LICENSE.txt": "/thaiculture.git/static/js/2.fba15e97.chunk.js.LICENSE.txt",
     "static/media/avatar.jpg": "/thaiculture.git/static/media/avatar.7257a1a9.jpg",
     "static/media/bg1.jpg": "/thaiculture.git/static/media/bg1.6b1983a2.jpg",
     "static/media/bg11.jpg": "/thaiculture.git/static/media/bg11.e643a6cf.jpg",
@@ -81,8 +81,8 @@
   "entrypoints": [
     "static/js/runtime-main.5a016a2a.js",
     "static/css/2.4707e12a.chunk.css",
-    "static/js/2.6991a08b.chunk.js",
+    "static/js/2.fba15e97.chunk.js",
     "static/css/main.4369de64.chunk.css",
-    "static/js/main.ad71f216.chunk.js"
+    "static/js/main.bfef8867.chunk.js"
   ]
 }

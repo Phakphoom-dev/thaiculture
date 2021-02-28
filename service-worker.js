@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/thaiculture.git/precache-manifest.fe950fe0f111ef9009bbd4dde153610f.js"
+  "/thaiculture.git/precache-manifest.b52465dab48308a7ea17bbf0a4d76f5f.js"
 );
 
 self.addEventListener('message', (event) => {
